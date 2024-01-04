@@ -8,5 +8,6 @@ namespace Net23GitHubVS
 {
     internal class Reidar
     {
+        //Här är koden som jag lovade
     }
 }
